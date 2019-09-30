@@ -88,9 +88,9 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 email = "Marissa.Salas@knights.ucf.edu"
 ## phone = "888 888 88 88"
 
-# Address
+#Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "4000 Central Florida Blvd", city = "Orlando", region = "FL", postcode = "32817", country = "United States", country_code = "US"}
+# address = {street = "4000 Central Florida Blvd", city = "Orlando", region = "FL", postcode = "32817", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
