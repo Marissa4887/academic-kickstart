@@ -85,7 +85,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = Marissa.Salas@knights.ucf.edu
+email = "Marissa.Salas@knights.ucf.edu"
 ## phone = "888 888 88 88"
 
 #Address
@@ -109,7 +109,7 @@ coordinates = {latitude = "28.596901", longitude = "-81.203278"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = https://twitter.com/marissa_iam},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/marissa_iam"},
  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -121,10 +121,10 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = 22mecrop.jpg
+sharing_image = "22mecrop.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = marissa_iam
+twitter = "marissa_iam"
 
 ############################
 ## Regional Settings
