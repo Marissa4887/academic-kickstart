@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Owner"
-  company = "Salas Consultant"
+  company = "Salas Consulting"
   company_url = ""
   location = "Florida"
   date_start = "2017-01-01"
@@ -31,6 +31,33 @@ date_format = "Jan 2006"
   * Research
   * Database Mining
   """
+[[experience]]
+  title = "President"
+  company = "Rainbow Democrats"
+  company_url = ""
+  location = "Florida"
+  date_start = "2017-01-01"
+  date_end = "2018-12-31"
+  description = """Civic non-profit organization."""
+  Responsibilities include:
+  
+  * Voter registration and engagement
+  """
+
+[[experience]]
+  title = "Board Member"
+  company = "Metroplan Orlando "
+  company_url = ""
+  location = "Florida"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Advisory representative of Orange County."""
+  Responsibilities include:
+  
+  * Long range transportation planning  
+  * Advocate for reliable and varied modes of transportation
+  """
+
 
 [[experience]]
   title = "Vice President"
@@ -39,6 +66,13 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Statewide voter mobilzation and representative to officials and candidates. """
+  Responsibilities include:
+  
+  * Representation 
+  * Endorsements
+  """
+
+
 
 +++
