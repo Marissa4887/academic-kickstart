@@ -38,10 +38,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:marissa.salas@knights.ucf.edu".
+  link: "mailto:marissa.salas@knights.ucf.edu"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/marissa
+  link: "https://twitter.com/marissa_iam"
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
