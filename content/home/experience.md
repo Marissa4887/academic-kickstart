@@ -27,14 +27,14 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Project Management
+  * Research
+  * Database Mining
   """
 
 [[experience]]
-  title = "Political Consultant"
-  company = "University X"
+  title = "Vice President"
+  company = "Florida LGBTA Democratic Caucus "
   company_url = ""
   location = "Florida"
   date_start = "2016-01-01"
