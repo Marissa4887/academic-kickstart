@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2017-01-01"
   date_end = ""
-  description = """
+  description = ""
   Responsibilities include:
   
   * Project Management
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2017-01-01"
   date_end = "2018-12-31"
-  description = """Civic non-profit organization."""
+  description = "Civic non-profit organization."
   Responsibilities include:
   
   * Voter registration and engagement
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Advisory representative of Orange County."""
+  description = "Advisory representative of Orange County."
   Responsibilities include:
   
   * Long range transportation planning  
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Statewide voter mobilzation and representative to officials and candidates. """
+  description = "Statewide voter mobilzation and representative to officials and candidates. "
   Responsibilities include:
   
   * Representation 
