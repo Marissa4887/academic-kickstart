@@ -27,9 +27,19 @@ interests:
 
 education:
   courses:
-  - course: PhD courses in Digital Humanities
+  - course: PhD Digital Humanities Student
     institution: University of Central Florida
     year: 2019
+
+  - course: Master's Urban and Regional Planning
+    institution: Florida State University
+    year: 1999
+
+ - course: Bachelor's Interdicplinary Social Science
+    institution: Florida State University
+    year: 1997
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
