@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,26 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]] title = "Owner" company = "Salas Consulting" company_url = "" location = "Florida" date_start = "2017-01-01" #date_end = "" description = """ Responsibilities include:
+[[experience]]
+  title = "Owner"
+  company = "Salas Consulting"
+  company_url = ""
+  location = ""
+  date_start = "2007-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+[[experience]]
+  title = "Board Member"
+  company = "Metroplan Orlando"
+  company_url = ""
+  location = ""
+  date_start = "2015-01-01"
+  date_end = ""
+  description = ""
 
-#Project Management
-
-#Research
-
-#Database Mining """ 
-
-[[experience]] title = "President" company = "Rainbow Democrats" company_url = "" location = "Florida" date_start = "2017-01-01" #date_end = "2018-12-31" description = "Civic non-profit organization." "Responsibilities include:
-
-#Voter registration and engagement """
-
-[[experience]] title = "Board Member" company = "Metroplan Orlando" company_url = "" location = "Florida" date_start = "2016-01-01" #date_end = "2016-12-31" description = "Advisory representative of Orange County." "Responsibilities include:
-
-#Long range transportation planning
-#Advocate for reliable and varied modes of transportation """
-
-[[experience]] title = "Vice President" company = "Florida LGBTA Democratic Caucus " company_url = "" location = "Florida" date_start = "2016-01-01" date_end = "2016-12-31" 
-#description = "Statewide voter mobilzation and representative to officials and candidates. " "Responsibilities include:
-
-#Representation
-#Endorsements """
 +++
